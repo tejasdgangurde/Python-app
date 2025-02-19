@@ -14,5 +14,5 @@
 13) pip install -r requirements.txt
 14) python3 app.py
 15) Allow Traffic on Port 5000 add it into security group
-16) http://<EC2-PUBLIC-IP>:5000
+16) http://EC2-PPublic-IP:5000
     
